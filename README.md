@@ -12,3 +12,9 @@ Keras digits dataset, containing 70000 images of digits hand written in 28*28 si
 Keras sequential neural network with 1 hidden layer
 
 # Neural Network
+
+![](visuals/neural.png)
+
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. 
+In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. 
+Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria. 

@@ -41,3 +41,9 @@ The gradient is a numeric calculation allowing us to know how to adjust the para
 3. (Stochastic) Mini-batch gradient descent - Instead of every sample, a group of samples are executed and weights/bias is calculated accordingly
 
 In large datasets such as this, its inefficient to use batch gradient descent hence stochastic gradient descent is preferred.
+
+# Model performance
+
+Deployed neural network model and reached an accuracy of 99.26%
+
+![](Visuals/model_eval.png)

@@ -47,3 +47,9 @@ In large datasets such as this, its inefficient to use batch gradient descent he
 Deployed neural network model and reached an accuracy of 99.26%
 
 ![](Visuals/model_eval.png)
+
+# Evaluation and conclusion
+
+Model showed an improvement an accuracy corresponding to higher number of neurons and hidden layers.
+
+![](Visuals/Heatmap.png)

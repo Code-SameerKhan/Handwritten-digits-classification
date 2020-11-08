@@ -35,6 +35,7 @@ Generally it is advisable to use hidden layers as many as possible to increase t
 The gradient is a numeric calculation allowing us to know how to adjust the parameters of a network in such a way that its output deviation is minimized
 
 # Types of Gradient Descent
+
 1. Batch gradient descent - Weights and bias is calculated and adjusted after every epoch
 2. Stochastic gradient descent - Weights and bias is calculated and adjusted after every training sample instead of epoch
 3. (Stochastic) Mini-batch gradient descent - Instead of every sample, a group of samples are executed and weights/bias is calculated accordingly

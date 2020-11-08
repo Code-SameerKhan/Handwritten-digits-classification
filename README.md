@@ -52,4 +52,4 @@ Deployed neural network model and reached an accuracy of 99.26%
 
 Model showed an improvement an accuracy corresponding to higher number of neurons and hidden layers.
 
-![](Visuals/Heatmap.png)
+![](Visuals/heatmap.png)
